@@ -1,0 +1,9 @@
+What is the overall sentiment of this article? Choose one:
+- Positive
+- Neutral
+- Negative
+
+Explain your answer in 1–2 sentences.
+
+ARTICLE:
+{{article_text}}

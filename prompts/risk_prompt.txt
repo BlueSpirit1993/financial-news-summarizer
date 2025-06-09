@@ -1,0 +1,10 @@
+Extract any risks or red flags mentioned in the article. Categorize them as:
+- Market Risk
+- Operational Risk
+- Regulatory Risk
+- Financial/Earnings Risk
+
+Return each risk with a short quote or phrase from the article.
+
+ARTICLE:
+{{article_text}}

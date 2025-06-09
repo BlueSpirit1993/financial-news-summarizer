@@ -1,0 +1,8 @@
+Summarize the main financial insights from the article below in 3–5 bullet points. Focus on:
+- Financial performance
+- Company outlook
+- Market trends
+- Risks and challenges
+
+ARTICLE:
+{{article_text}}
